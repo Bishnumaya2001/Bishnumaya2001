@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bishnumaya2001&theme=onedark)]
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishnumaya20001&theme=merko&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishnumaya2001&theme=merko&hide_progress=true)
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishnumaya2001&theme=merko&show_icons=true)
