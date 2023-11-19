@@ -6,8 +6,8 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Web Technology Nepal Pvt.Ltd.
-- 🌱 I’m currently learning  Java, selenium for Automation
-- 💬 Ask me about PHP, Laravel, QA tester.
+- 🌱 I’m currently learning Automation testing.
+- 💬 Ask me about  QA tester.
 - 📫 How to reach me: dhakalbishnu159@gmail.com
 - ⚡ I love Music, travelling
 
